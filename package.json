@@ -1,6 +1,6 @@
 {
   "name": "googlemaps-mcp",
-  "version": "1.0.0",
+  "version": "1.0.18",
   "description": "A mcp for using google maps services",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -24,6 +24,7 @@
   "license": "ISC",
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.10.2",
+    "dotenv": "^16.5.0",
     "zod": "^3.22.4"
   },
   "devDependencies": {
